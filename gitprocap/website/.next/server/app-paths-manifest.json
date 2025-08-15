@@ -1,0 +1,11 @@
+{
+  "/api/cameras/[id]/route": "app/api/cameras/[id]/route.js",
+  "/page": "app/page.js",
+  "/api/cameras/route": "app/api/cameras/route.js",
+  "/api/stream/[id]/route": "app/api/stream/[id]/route.js",
+  "/api/media/live/[...path]/route": "app/api/media/live/[...path]/route.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/add-camera/page": "app/dashboard/add-camera/page.js",
+  "/dashboard/cameras/[id]/page": "app/dashboard/cameras/[id]/page.js",
+  "/dashboard/cameras/page": "app/dashboard/cameras/page.js"
+}
